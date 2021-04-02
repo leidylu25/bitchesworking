@@ -18,6 +18,7 @@ public class AliBitchPro1 {
 		
 		
 		
+		System.out.println("its firday and covid time too");
 
 	}
 
