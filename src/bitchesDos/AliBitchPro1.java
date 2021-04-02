@@ -7,6 +7,9 @@ public class AliBitchPro1 {
 		
 		
 		System.out.println("Yea yea Ms. Crazy Lu");
+		
+		
+		System.out.println("Ali has nice hair");
 
 	}
 
